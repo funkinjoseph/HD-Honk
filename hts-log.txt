@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 08 Jun 2021 10:34:24 at http://v6p9d9t4.ssl.hwcdn.net/html/3953466/bin/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y http://v6p9d9t4.ssl.hwcdn.net/html/3953466/bin/index.html -O1 "C:\Users\josep\Downloads\lol hd" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:35:29	Warning: 	Retry after error -4 (No data (connection closed)) at link v6p9d9t4.ssl.hwcdn.net/html/3953466/bin/flixel/fonts/nokiafc22.woff (from v6p9d9t4.ssl.hwcdn.net/html/3953466/bin/index.html)
+10:35:29	Warning: 	Retry after error -4 (No data (connection closed)) at link v6p9d9t4.ssl.hwcdn.net/html/3953466/bin/flixel/fonts/monsterrat.eot? (from v6p9d9t4.ssl.hwcdn.net/html/3953466/bin/index.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 6 seconds : 27 links scanned, 24 files written (6089123 bytes overall) [1607234 bytes received at 24352 bytes/sec], 5466115 bytes transferred using HTTP compression in 5 files, ratio 17%, 3.3 requests per connection
+(No errors, 2 warnings, 0 messages)
